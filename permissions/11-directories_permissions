@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+x /root/holbertoschool-shell/permissions
+sudo chmod -R a+x /root/holbertoschool-shell/permissions
