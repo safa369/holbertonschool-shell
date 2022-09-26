@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -v rwxr-x-wx hello   
+chown -v rwxr-x-wx hello   
