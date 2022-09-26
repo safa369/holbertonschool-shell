@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -wx:r-x hello olleh
+chown --reference=olleh hello
