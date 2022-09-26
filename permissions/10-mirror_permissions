@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -v -wxr-xr-- olleh hello
+sudo chown olleh hello
