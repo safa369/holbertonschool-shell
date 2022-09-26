@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -R vincent:staf .
+sudo chown -X vincent:staf .
