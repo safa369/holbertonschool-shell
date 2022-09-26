@@ -1,2 +1,2 @@
 #!/bin/bash
-hown -R vincent:staf *
+chown -R vincent:staf *
