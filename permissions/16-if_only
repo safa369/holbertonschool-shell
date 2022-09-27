@@ -1,2 +1,2 @@
 #!/bin/bash
-useradd guillaume hello
+addgroup guillaume hello
