@@ -1,2 +1,2 @@
 #!/bin/bash
-addgroup guillaume hello
+sudo chown guillaume hello
