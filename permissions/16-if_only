@@ -1,6 +1,2 @@
 #!/bin/bash
-u=id -user hello
-if u.uid == guillaume then
-   sudo chown vincent helleo
-   else
-       echo §u
+adduser vincent hello
