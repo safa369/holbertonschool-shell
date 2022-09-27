@@ -1,2 +1,2 @@
 #!/bin/bash
-adduser vincent hello 
+chown --from=guillaume vincent hello
