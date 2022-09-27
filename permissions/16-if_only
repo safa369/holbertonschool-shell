@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --reference=vincent hello
+sudo chown -R vincent hello 
