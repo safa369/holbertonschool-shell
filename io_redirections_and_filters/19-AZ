@@ -1,2 +1,2 @@
 #!/bin/bash
-echo recplace all characters 'A' and 'c' from input to 'Z' and 'e'| tr Ac Ze
+tr Ac Ze
