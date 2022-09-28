@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo cat /etc/passwd
+su grep -i /etc/passwd
