@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEGE='128'
+echo 1+2+8 |set TRUEKNOWLEGE=128
