@@ -1,2 +1,2 @@
 #!/bin/bash
-$TRUEKNOWLEGE=1+2+8
+set TRUEKNOWLEGE=128
