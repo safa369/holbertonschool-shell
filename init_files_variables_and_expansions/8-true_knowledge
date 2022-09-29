@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $[TRUEKNOWLEGE=128 + 1209]
+echo $[TRUEKNOWLEGE=128]\n $[TRUEKNOWLEDGE+128]
