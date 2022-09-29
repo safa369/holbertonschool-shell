@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $[TRUEKNOWLEGE=128] $[TRUEKNOWLEDGE+128]
+echo -e $((TRUEKNOWLEGE+128))
