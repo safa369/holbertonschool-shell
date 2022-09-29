@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'hello user' $who
+echo 'hello My user' $who
