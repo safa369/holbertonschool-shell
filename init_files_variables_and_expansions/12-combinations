@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n" [0-9][a-z]
+printf "%s\n" {0..9}{a..z}
