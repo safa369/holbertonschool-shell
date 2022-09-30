@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n" {0..9}{a..z}
+echo {0..9}{a..z}| tr ' ' '\n'| grep -v "oo"
